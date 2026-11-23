@@ -81,3 +81,62 @@ Created six Pivot Tables to understand demand patterns:
 Screenshots of all six Pivot Tables are available in the `Demand Analysis/` folder.
 
 **Output:** Demand Analysis screenshots (`Analysis` folder).
+
+
+## Phase 4: Business Insights & Opportunity Identification
+
+Analysed city-wise and area-wise demand, revenue, cuisine preferences, and order statuses using Microsoft Excel Pivot Tables.
+
+### Analysis Performed
+
+- Identified the Top 5 cities based on order volume.
+- Identified the Top 5 areas based on order volume.
+- Analysed the Top 5 popular cuisines.
+- Compared order statuses across cities.
+- Identified the Top 5 cities by revenue.
+- Compared demand and revenue across Mumbai areas.
+
+### Key Business Insights
+
+**1. City-wise Demand**
+- Mumbai ranked first with 8,564 orders.
+- Lucknow ranked second with 8,390 orders.
+- Greater Noida ranked third with 8,360 orders.
+
+**2. Cuisine Preferences**
+- North Indian was the most ordered cuisine with 17,209 orders.
+- Biryani ranked second with 10,568 orders.
+
+**3. Order Status**
+- Delivered: 91,976
+- Cancelled: 4,927
+- Refunded: 3,097
+
+**4. Mumbai Area Analysis**
+
+| Area | Orders | Revenue (INR) |
+|---|---:|---:|
+| Powai | 2,902 | 1,466,769.35 |
+| Andheri | 2,866 | 1,494,103.54 |
+| Bandra | 2,796 | 1,437,522.02 |
+
+### Business Findings
+
+- Mumbai recorded the highest overall order demand.
+- Powai had the highest order volume among the three analysed Mumbai areas.
+- Andheri generated the highest revenue among these areas.
+- Demand and revenue rankings were different, showing why both metrics matter in location selection.
+
+### Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Value Filters
+- Sorting and Aggregation
+
+### Final Outcome
+
+Identified Mumbai as a leading city for further investigation. Powai and Andheri emerged as potential areas for further evaluation.
+
+A final restaurant location decision requires additional analysis .
+
+**Output:** Business Insights Pivot Tables and analysis screenshots.
