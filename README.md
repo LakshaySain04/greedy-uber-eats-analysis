@@ -140,3 +140,64 @@ Identified Mumbai as a leading city for further investigation. Powai and Andheri
 A final restaurant location decision requires additional analysis .
 
 **Output:** Business Insights Pivot Tables and analysis screenshots.
+
+
+## Phase 5: Profitability Analysis & Final Business Recommendation
+
+Compared the financial performance of Mumbai's three areas: Andheri, Powai, and Bandra using Microsoft Excel Pivot Tables.
+
+### Analysis Performed
+
+- Compared estimated profit across Mumbai areas.
+- Compared estimated operational costs.
+- Analysed area-wise revenue.
+- Calculated cancellation rates.
+- Compared customer demand and financial performance.
+
+### Profitability Comparison
+
+| Area | Estimated Profit (INR) | Estimated Cost (INR) |
+|---|---:|---:|
+| Andheri | 297,632.94 | 196,086.90 |
+| Powai | 287,286.85 | 198,046.70 |
+| Bandra | 284,438.79 | 190,391.81 |
+
+### Cancellation Rate Analysis
+
+| Area | Cancelled Orders | Total Orders | Cancellation Rate |
+|---|---:|---:|---:|
+| Andheri | 144 | 2,866 | 5.02% |
+| Powai | 167 | 2,902 | 5.75% |
+| Bandra | 128 | 2,796 | 4.58% |
+
+**Formula:**
+
+Cancellation Rate = (Cancelled Orders / Total Orders) × 100
+
+### Key Business Insights
+
+- Andheri generated the highest revenue among the three areas.
+- Andheri recorded the highest estimated profit of ₹2,97,632.94.
+- Powai recorded the highest order demand with 2,902 orders.
+- Andheri had a lower cancellation rate than Powai.
+- Bandra recorded the lowest cancellation rate at 4.58%.
+
+### Final Business Recommendation
+
+**Recommended Location: Andheri, Mumbai**
+
+Based on the available dataset, Andheri is the strongest candidate for the next restaurant because it recorded the highest revenue and estimated profit among the three analysed areas.
+
+Powai also represents a potential opportunity because of its higher order volume.
+
+This recommendation is based on historical order and financial data. Actual investment decisions should also consider rent, competition, and future operating expenses.
+
+### Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Financial Analysis
+- Percentage Calculations
+- Business Decision-Making
+
+**Project Outcome:** Identified Andheri, Mumbai as the leading candidate for the next restaurant location based on the available data.
+
