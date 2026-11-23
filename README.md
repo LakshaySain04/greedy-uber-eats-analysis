@@ -48,3 +48,36 @@ The cleaned dataset was saved separately:
 `data/cleaned/cleaned_greedy_uber_eats_data.xlsx`
 
 A separate `Data_Cleaning_Report` sheet was also added to document the validation results.
+
+## Phase 3: Demand Analysis
+
+Analysed customer demand across different cities, areas, cuisines, meal periods, months, and weekdays using Microsoft Excel Pivot Tables.
+
+### Analysis Performed
+
+Created six Pivot Tables to understand demand patterns:
+
+1. **City-wise Demand:** Compared total orders across cities.
+2. **Area-wise Demand:** Identified areas with the highest order volume.
+3. **Cuisine-wise Demand:** Analysed customer preferences across cuisines.
+4. **Meal Period Demand:** Compared orders across different meal periods.
+5. **Monthly Demand Trend:** Examined changes in order demand over time.
+6. **Weekend vs Weekday Demand:** Compared customer ordering patterns.
+
+### Key Observations
+
+- Mumbai recorded the highest city-wise demand with 8,564 orders.
+- Lucknow ranked second with 8,390 orders.
+- Greater Noida ranked third with 8,360 orders.
+- All Pivot Tables were sorted in descending order to identify high-demand categories easily.
+
+### Tools Used
+- Microsoft Excel
+- Pivot Tables
+- Data Sorting
+
+### Analysis Output
+
+Screenshots of all six Pivot Tables are available in the `Demand Analysis/` folder.
+
+**Output:** Demand Analysis screenshots (`Analysis` folder).
